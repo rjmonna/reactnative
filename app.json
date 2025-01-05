@@ -1,4 +1,10 @@
 {
   "name": "reactnative",
-  "displayName": "reactnative"
+  "displayName": "reactnative",
+  "expo": {
+    "slug": "reactnative",
+    "name": "reactnative",
+    "sdkVersion": "52.0.0",
+    "entryPoint": ".vscode/exponentIndex.js"
+  }
 }
